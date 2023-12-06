@@ -1,0 +1,1 @@
+export const COUNTER_PACKAGE_ID = "0xdce47fe50a89230e63f9b4d92dbe4a110eb93c6bf744857b5383a28bc6d1deb7"
